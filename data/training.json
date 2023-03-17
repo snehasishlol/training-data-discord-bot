@@ -19,14 +19,6 @@
         {
             "input": "who are you",
             "output": "i am snehasish AI"
-        },
-        {
-            "input": "yes",
-            "output": "yeah"
-        },
-        {
-            "input": "no",
-            "output": "nope"
         }
     ]
 }
