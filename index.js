@@ -50,9 +50,9 @@ client.on(Events.MessageCreate, async (message) => {
 client.once(Events.ClientReady, async () => {
     client.user.setPresence({
         activities: [{
-            name: 'VALORANT'
+            name: 'on Training Ground'
         }],
-        status: 'dnd'
+        status: 'idle'
     });
     console.log('Started.');
 }); // When the Client or Bot is Online. You can update it's status.
